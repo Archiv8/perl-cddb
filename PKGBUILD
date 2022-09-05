@@ -40,9 +40,9 @@ options=(
 source=(
   "http://search.cpan.org/CPAN/authors/id/R/RC/RCAPUTO/${_relname}-${pkgver}.tar.gz"
 )
-# md5sums=(
-#   "09da67cfbc54fd40144c325e320a84ed"
-# )
+md5sums=(
+  "09da67cfbc54fd40144c325e320a84ed"
+)
 sha512sums=(
   "addd0f4f3fecab7d599eb7ead93828d6a9c74a779a344f190a629e666c95af47b5eea05f885564a90bfa1fa6c128dc3e60e510f295f6f35b3eae2d8939109d98"
 )
